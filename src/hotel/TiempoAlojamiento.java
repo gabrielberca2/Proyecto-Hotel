@@ -1,4 +1,4 @@
-
+//ERROR
 package hotel;
 import javax.swing.JOptionPane;
 
